@@ -1,5 +1,4 @@
 # covid_model
-# covid_model
 
 This repository contains a model for analyzing and predicting trends related to COVID-19 using Jupyter Notebooks.
 
