@@ -1,4 +1,4 @@
-# covid_model
+# COVID_MODEL
 
 This repository contains a model for analyzing and predicting trends related to COVID-19 using Jupyter Notebooks.
 
@@ -22,4 +22,5 @@ This repository contains a model for analyzing and predicting trends related to 
 1. Clone the repository:
    ```bash
    git clone https://github.com/Rody144/covid_model.git
-   cd covid_model
+    this is covid19_model
+   .h5 i have trained it!
